@@ -4,7 +4,7 @@
   "type": "module",
   "author": ["Julian Metzger", "BeastGamer81"],
   "license": "MIT",
-  "homepage": "https://github.com/julian428/astro-toast",
+  "homepage": "https://github.com/BeastGamer81/astro-toast",
   "exports": {
     ".": "./index.ts"
   },
