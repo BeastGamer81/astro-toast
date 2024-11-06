@@ -2,7 +2,7 @@
   "name": "astro-toast",
   "version": "1.1.4",
   "type": "module",
-  "author": "Julian Metzger",
+  "author": ["Julian Metzger", "BeastGamer81"],
   "license": "MIT",
   "homepage": "https://github.com/julian428/astro-toast",
   "exports": {
